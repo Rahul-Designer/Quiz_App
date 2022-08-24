@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abhaya_libre</item>
+        <item>@font/alata</item>
+        <item>@font/eb_garamond</item>
+        <item>@font/el_messiri</item>
+        <item>@font/finger_paint</item>
+        <item>@font/fjalla_one</item>
+        <item>@font/francois_one</item>
+        <item>@font/handlee</item>
+        <item>@font/kavoon</item>
+        <item>@font/oleo_script_bold</item>
+    </array>
+</resources>
